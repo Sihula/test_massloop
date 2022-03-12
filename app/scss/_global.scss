@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+  color: $main-black;
+ }
+
+.container {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.container-fluid{
+  max-width: 1440px;
+  margin: 0 auto;
+}
